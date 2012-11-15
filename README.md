@@ -3,7 +3,7 @@
 
 Mil-OSS MIL-STD-2525 working group
 
-Trying something new here.  We're finally convinced it's time to solve the 2525* dynamical iconagraphy
+Trying something new here.  We're finally convinced it's time to solve the 2525* dynamic iconagraphy
 rendering problem once and for all.  A pure OSS solution is the answer - not proprietary, or government
 program-controlled options.
 
