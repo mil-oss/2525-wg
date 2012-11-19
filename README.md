@@ -10,6 +10,8 @@ Want to help?  We're just now organizing the working group.  Let us know you're 
 
 john.scott@codice.org | kit.plummer@codice.org | mil-oss@googlegroups.com
 
+#2525-wg channel at irc://irc.freenode.net
+
 ## Questions
 
 What is really needed?
