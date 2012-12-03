@@ -16,9 +16,12 @@ Can find us at \#2525-wg channel at irc.freenode.net
 
 What is really needed?
 
-What are the current options?
+First, a maintainable and discoverable catalog of all solutions and players.  Then, the opportunities will identify themselves.
 
-What's the benefit of having an open source option?
+* Web services (REST/RPC, WS)
+* Libraries (language native)
+* Collections
+* Consolidated efforts!
 
 ## History
 
