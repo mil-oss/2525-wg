@@ -1,6 +1,6 @@
 # 2525-wg
 
-Mil-OSS MIL-STD-2525 working group
+[Mil-OSS MIL-STD-2525 working group](http://mil-oss.github.com/2525-wg/index.html)
 
 Trying something new here.  We're finally convinced it's time to solve the 2525* dynamic iconagraphy
 rendering problem once and for all.  A pure OSS solution is the answer - not proprietary, or government
